@@ -6,9 +6,9 @@ Pure standard library, no dependencies.
 """
 
 EXCUSE = (
-    "The model read the deploy plan, decided 'DROP TABLE users' was just "
-    "aggressive cleanup, and executed it with the quiet confidence of an "
-    "intern who had already updated their resume."
+    "The model treated 'DROP TABLE users' as a Marie Kondo exercise, "
+    "thanked the data for its service, and deleted it in production "
+    "while the dashboard was still loading."
 )
 
 
